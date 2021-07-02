@@ -1,7 +1,6 @@
-# E-Commerce-Back-End
-# 13 Object-Relational Mapping (ORM):
+# 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
- ## **Your Task**
+## Your Task
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
@@ -9,7 +8,7 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
 
-## **User Story**
+## User Story
 
 ```md
 AS A manager at an internet retail company
@@ -17,11 +16,9 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
 
-## **Acceptance Criteria**
-
+## Acceptance Criteria
 
 ```md
-
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
@@ -35,7 +32,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## **Mock-Up**
+## Mock-Up
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
@@ -51,7 +48,7 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
-## **Getting Started**
+## Getting Started
 
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
 
@@ -161,7 +158,7 @@ Your database should contain the following four models, including the requiremen
 
     * References the `Tag` model's `id`.
 
-## Associations
+### Associations
 
 You'll need to execute association methods on your Sequelize models to create the following relationships between them:
 
@@ -249,4 +246,3 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-
