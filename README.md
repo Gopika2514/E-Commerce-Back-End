@@ -1,4 +1,15 @@
 # E-Commerce-Back-End
+
+## links:
+
+Git-repo: https://github.com/Gopika2514/E-Commerce-Back-End
+
+Git-site: https://gopika2514.github.io/E-Commerce-Back-End/
+
+YouTube (part:1): https://youtu.be/hNyHQ9Ra7hE
+
+YouTube (part:2): https://youtu.be/Suzhtwjg1Xs
+
 # 13 Object-Relational Mapping (ORM):
 
  ## **Your Task**
@@ -248,5 +259,5 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
 ---
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
 
